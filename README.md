@@ -112,7 +112,7 @@ Spacevim's default file tree plugin is `vimfiler`, for those who used to using
 Don't be scare by these many shortcuts, actually they are easy to remember and
 it will help you a lot eventually.
 
-Be carefully, if you use vim compatible mode, in vim normal mode, the following shortcuts starts with `s` and `q` won't work.
+Be careful, if you use vim compatible mode, in vim normal mode, the following shortcuts starting with `s` and `q` won't work.
 
 | Shortcuts        | Description                                                     |
 | ---------------- | --------------------------------------------------------------- |
